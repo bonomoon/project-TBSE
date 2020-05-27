@@ -10,15 +10,15 @@
 
 ## Contents
 
-* [이 프로젝트에 대해](#About Project)
-* [이력서](#My Resume)
-* [컴퓨터 사이언스](#Computer Science)
-    - [프로그래밍 수학](#Programming Math)
-    - [자료구조](#Data Structures)
+* [이 프로젝트에 대해](#About-Project)
+* [이력서](#My-Resume)
+* [컴퓨터 사이언스](#Computer-Science)
+    - [프로그래밍 수학](#Programming-Math)
+    - [자료구조](#Data-Structures)
     - [알고리즘](#Algorithms)
-    - [운영체제](#Operating System)
-    - [네트워크](#Computer Network)
-* [소프트웨어 공학](#Software Engineering)
+    - [운영체제](#Operating-System)
+    - [네트워크](#Computer-Network)
+* [소프트웨어 공학](#Software-Engineering)
 * [추가 사항](#Others)
 * [라이센스](#License)
 
