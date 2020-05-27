@@ -1,8 +1,8 @@
 # Project TBSE
 
-> To be Best Software Engineer, Always be Coding and Studying.
-> 지금까지 내가 소프트웨어 공학 전공으로 배워왔던 것들을 정리하고 부족한 부분을 더 공부하면서, 개발자로 다가서는 과정을 보여주는 프로젝트이다.
-> Motivated by [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
+> To be Best Software Engineer, Always be Coding and Studying.  
+> 지금까지 내가 소프트웨어 공학 전공으로 배워왔던 것들을 정리하고 부족한 부분을 더 공부하면서, 개발자로 다가서는 과정을 보여주는 프로젝트이다.  
+> Motivated by [Coding Interview University](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)  
 > 2020.05.27 ~ ing
 
 ## Contents
