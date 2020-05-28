@@ -1,6 +1,6 @@
 # Project TBSE
 
-> To be Best Software Engineer, Always be Coding and Studying.
+> To be the Best Software Engineer, Always be Coding and Studying.
 >
 > 지금까지 내가 소프트웨어 공학 전공으로 배워왔던 것들을 정리하고 부족한 부분을 더 공부하면서, 개발자로 다가서는 과정을 보여주는 프로젝트이다.
 >
@@ -26,7 +26,7 @@
 
 대학교 생활을 하면서 많은 프로젝트를 하고 공부를 했지만 정작 내 자신에 대해 돌아보고 정리하는 시간을 갖지 못했다. 특히 이 프로젝트를 생성하기 전에 수많은 내적인 질문들을 맞이했는데, 나는 컴퓨터 사이언스를 과연 잘 알까? 나는 무엇을 잘 할까? 내가 공부를 잘 하고 있을까? 등 같은 것들이다.
 
-Project TBSE는 To be Best Software Engineer의 약자로
+Project TBSE는 To be the Best Software Engineer의 약자로
 
 * 앞으로 해야할 것들을 알고 내적인 질문들을 해결하기 위해
 * 지금까지 공부했던 것, 공부할 것, 결과물 등을 정리하기 위해
@@ -39,6 +39,12 @@ Project TBSE는 To be Best Software Engineer의 약자로
 이 프로젝트로 인해 나는 성숙하고 든든한 국밥같은 개발자의 길에 한 걸음 더 다가설 수 있는 계기를 얻을 수 있을 것이다.
 
 ## My Resume
+
+내가 지금까지 작성한 것 중 계속 업데이트되는 이력서 목록이다.
+
+* [문봉오 PR 사이트](https://bonomoon.site) - 업데이트 필요
+* [프로그래머스 이력서](/Resume/2020_programmers_resume.pdf)
+* [LinkedIn](https://www.linkedin.com/in/bong-oh-moon-b85b671aa/) - 업데이트 필요
 
 ## Computer Science
 
