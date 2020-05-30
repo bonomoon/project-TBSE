@@ -48,13 +48,21 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 ## Computer Science
 
-### Programming Math
+### Programming Math [View](/Computer_Science/Programming_Math/)
+
+관련 프로젝트:
 
 * [Project Euler](https://github.com/bonomoon/project-euler) - 프로젝트 오일러에서 푼 수학 코딩 문제들을 정리한 프로젝트
+
+참고 자료:
+
+* [Mathmatics for Topcoders](https://www.topcoder.com/community/competitive-programming/tutorials/mathematics-for-topcoders/)
 
 ### Data Structures
 
 ### Algorithms
+
+관련 프로젝트:
 
 * [Project Algorithms](https://github.com/bonomoon/project-algorithms) - 알고리즘 문제 풀이 사이트에서 푼 문제들을 정리한 프로젝트
 
@@ -63,6 +71,10 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 ### Computer Network
 
 ## Software Engineering
+
+### System Design
+
+* [System Design Primer](https://github.com/donnemartin/system-design-primer) - 
 
 ## Others
 
