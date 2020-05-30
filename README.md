@@ -48,7 +48,9 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 ## Computer Science
 
-### Programming Math [View](/Computer_Science/Programming_Math/)
+### Programming Math
+
+[View Chapter](/Computer_Science/Programming_Math/)
 
 관련 프로젝트:
 
