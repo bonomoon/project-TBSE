@@ -22,7 +22,7 @@
 * [추가 사항](#Others)
 * [라이센스](#License)
 
-## About Project
+## Overview
 
 대학교 생활을 하면서 많은 프로젝트를 하고 공부를 했지만 정작 내 자신에 대해 돌아보고 정리하는 시간을 갖지 못했다. 특히 이 프로젝트를 생성하기 전에 수많은 내적인 질문들을 맞이했는데, 나는 컴퓨터 사이언스를 과연 잘 알까? 나는 무엇을 잘 할까? 내가 공부를 잘 하고 있을까? 등 같은 것들이다.
 
@@ -43,18 +43,18 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 내가 지금까지 작성한 것 중 계속 업데이트되는 이력서 목록이다.
 
 * [문봉오 PR 사이트](https://bonomoon.site) - 업데이트 필요
-* [프로그래머스 이력서](/Resume/2020_programmers_resume.pdf)
+* [프로그래머스 이력서](/Resume/2020_programmers_resume.pdf) - 업데이트 필요
 * [LinkedIn](https://www.linkedin.com/in/bong-oh-moon-b85b671aa/) - 업데이트 필요
 
 ## Computer Science
 
 ### Programming Math
 
-[View Chapter](/Computer_Science/Programming_Math/)
+<!-- [View Chapter](/Computer_Science/Programming_Math/) -->
 
 관련 프로젝트:
 
-* [Project Euler](https://github.com/bonomoon/project-euler) - 프로젝트 오일러에서 푼 수학 코딩 문제들을 정리한 프로젝트
+* [Project Euler](https://github.com/bonomoon/project-euler) - 프로젝트 오일러에서 해결한 수학 문제들을 정리한 프로젝트
 
 참고 자료:
 
@@ -62,11 +62,17 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 ### Data Structures
 
+관련 프로젝트:
+
+* [Project Data Structures](https://github.com/bonomoon/project-data-structures)
+
 ### Algorithms
 
 관련 프로젝트:
 
-* [Project Algorithms](https://github.com/bonomoon/project-algorithms) - 알고리즘 문제 풀이 사이트에서 푼 문제들을 정리한 프로젝트
+* [Project Algorithms](https://github.com/bonomoon/project-algorithms) - 알고리즘 정리 프로젝트
+* [BOJ](https://github.com/bonomoon/project-algorithms) - 백준에서 해결한 문제 정리 프로젝트
+* [Leetcode](https://github.com/bonomoon/leetcode) - 리트코드에서 해결한 문제 정리 프로젝트
 
 ### Operating System
 
@@ -76,7 +82,7 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 ### System Design
 
-* [System Design Primer](https://github.com/donnemartin/system-design-primer) - 
+* [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Others
 
