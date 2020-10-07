@@ -43,7 +43,8 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 내가 지금까지 작성한 것 중 계속 업데이트되는 이력서 목록이다.
 
 * [문봉오 PR 사이트](https://bonomoon.site) - 업데이트 필요
-* [프로그래머스 이력서](/Resume/2020_programmers_resume.pdf) - 업데이트 필요
+* [한글 Resume](/Resume/Resume_Korean_ver.pdf) - 업데이트 필요
+* [영문 Resume](/Resume/Resume_English_ver.pdf) - 업데이트 필요
 * [LinkedIn](https://www.linkedin.com/in/bong-oh-moon-b85b671aa/) - 업데이트 필요
 
 ## Computer Science
