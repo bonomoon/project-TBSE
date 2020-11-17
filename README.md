@@ -24,7 +24,7 @@
 
 ## Overview
 
-대학교 생활을 하면서 많은 프로젝트를 하고 공부를 했지만 정작 내 자신에 대해 돌아보고 정리하는 시간을 갖지 못했다. 특히 이 프로젝트를 생성하기 전에 수많은 내적인 질문들을 맞이했는데, 나는 컴퓨터 사이언스를 과연 잘 알까? 나는 무엇을 잘 할까? 내가 공부를 잘 하고 있을까? 등 같은 것들이다.
+대학교 생활을 하면서 많은 프로젝트를 하고 공부를 했지만 정작 내 자신에 대해 돌아보고 정리하는 시간을 갖지 못했다. 천천히 레포의 내용을 채우고 관련된 프로젝트들을 훑어보면서 오늘보다 더 나은 내일의 나를 위해 노력을 하려한다.
 
 Project TBSE는 To be the Best Software Engineer의 약자로
 
@@ -38,14 +38,15 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 이 프로젝트로 인해 나는 성숙하고 든든한 국밥같은 개발자의 길에 한 걸음 더 다가설 수 있는 계기를 얻을 수 있을 것이다.
 
-## My Resume
+## About Me
 
-내가 지금까지 작성한 것 중 계속 업데이트되는 이력서 목록이다.
+내가 계속 업데이트해나가는 나에 대한 자료들이다.
 
-* [문봉오 PR 사이트](https://bonomoon.site) - 업데이트 필요
-* [한글 Resume](/Resume/Resume_Korean_ver.pdf) - 업데이트 필요
-* [영문 Resume](/Resume/Resume_English_ver.pdf) - 업데이트 필요
+* [Portfolio](http://bonomoon.site) - 업데이트 필요
 * [LinkedIn](https://www.linkedin.com/in/bong-oh-moon-b85b671aa/) - 업데이트 필요
+
+* [한글 CV](/Resume/Resume_Korean_ver.pdf) - 업데이트 필요
+* [English CV](/Resume/Resume_English_ver.pdf) - 업데이트 필요
 
 ## Computer Science
 
@@ -72,7 +73,7 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 관련 프로젝트:
 
 * [Project Algorithms](https://github.com/bonomoon/project-algorithms) - 알고리즘 정리 프로젝트
-* [BOJ](https://github.com/bonomoon/project-algorithms) - 백준에서 해결한 문제 정리 프로젝트
+* [BOJ](https://github.com/bonomoon/boj) - 백준에서 해결한 문제 정리 프로젝트
 * [Leetcode](https://github.com/bonomoon/leetcode) - 리트코드에서 해결한 문제 정리 프로젝트
 
 ### Operating System
@@ -87,6 +88,6 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 
 ## Others
 
-* [Project TIL](https://github.com/bonomoon/project-TIL) - 프로젝트와 공부를 하면서 알게됐던 코드들, 방법론, 세팅 등을 정리하는 프로젝트
+* [Project TIL](https://github.com/bonomoon/project-TIL) - 작은 글들, 팁들, 공부하면서 깨우친 것들 등을 조금이나마 정리하는 프로젝트
 
 ## License
