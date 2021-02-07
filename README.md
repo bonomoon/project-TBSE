@@ -45,8 +45,8 @@ Project TBSE는 To be the Best Software Engineer의 약자로
 * [Portfolio](http://bonomoon.site) - 업데이트 필요
 * [LinkedIn](https://www.linkedin.com/in/bong-oh-moon-b85b671aa/) - 업데이트 필요
 
-* [한글 CV](/Resume/Resume_Korean_ver.pdf) - 업데이트 필요
-* [English CV](/Resume/Resume_English_ver.pdf) - 업데이트 필요
+* [한글 CV](/CV/CV-Moon_Bong_Oh-KO.pdf)
+* [English CV](/CV/CV_English_ver.pdf) - 업데이트 필요
 
 ## Computer Science
 
